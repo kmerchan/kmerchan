@@ -4,6 +4,8 @@ Hi!  I'm Kelsie Merchant. Through earning a B.S. in Engineering Physics from [Co
 
 ### Check Out My Code
 Please check out my coding projects in the repositories below!
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmerchan&langs_count=6&layout=compact)](https://github.com/kmerchan/github-readme-stats)
 
 ### Connect with Me
